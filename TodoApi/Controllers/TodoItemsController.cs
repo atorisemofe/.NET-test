@@ -94,7 +94,6 @@ namespace TodoApi.Controllers
             //return Ok(message)
 
 
-            byte[] bytes = System.IO.File.ReadAllBytes("markup.stm");
             FileStream s2 = new FileStream("markup.stm", FileMode.Open, FileAccess.Read, FileShare.Read);
             
 
