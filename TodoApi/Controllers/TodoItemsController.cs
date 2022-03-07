@@ -101,7 +101,7 @@ namespace TodoApi.Controllers
 
             var outputData1 = new MemoryStream(0);
 
-            Document.Convert(bytes, "text/vnd.star.markup", outputData1, outputFormat1, null);
+            Document.Convert(s2, "text/vnd.star.markup", outputData1, outputFormat1, null);
 
             StreamReader reader = new StreamReader(outputData1);
             outputData1.Seek(0, SeekOrigin.Begin);
