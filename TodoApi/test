@@ -1,0 +1,38 @@
+﻿[align: center]
+[image: url https://m.media-amazon.com/images/I/71gRvOmIx3L._AC_SX679_.jpg; width 190]
+Bob's Bud
+911 Main St.
+Helena, MT, 45961-9742
++1 (502) 821-8798
+[column: left Date:  01/01/2022; right Time: 12:14 PM]
+________________________________________________
+[bold: on]
+Sales
+[bold: off]
+[align: left]
+Bruce Banner Flower
+[column: left $5 X 2; center bob; right $10; indent 16]
+[align: left]
+Bob's Buds Gummies
+[column: left $7 X 1; center bob; right $7; indent 16]
+[space: count 1]
+[column: left Sub-Total; right $17; indent 0]
+[column: left Discount Total; right $1; indent 0]
+Taxes
+[column: left State; right $3.4; indent 0]
+[column: left Local; right $0.51; indent 0]
+________________________________________________
+[align: left]
+[bold: on]
+[column: left Total; right $0; indent 0]
+[bold: off]
+________________________________________________
+[align: left]
+[column: left cash; right $20; indent 0]
+[column: left Change Due; right $20; indent 0]
+[negative: on]
+Returns and Exchanges
+[negative: off]
+We don't do exchanges or refunds
+[align: center]
+[barcode: type code39; data 780539450563; height 10.0mm; wide-module 4; hri]
